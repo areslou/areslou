@@ -9,6 +9,7 @@ Computer Engineering student at **De La Salle University, Manila** (minor in Fin
 ### AI and machine learning
 | Project | What it does | Stack |
 |---|---|---|
+| [Practicum Q&A Chatbot](https://github.com/areslou/practicum-rag-chatbot) | RAG chatbot that answers DLSU practicum questions from official documents, cites sources, and refuses to guess | Python, LlamaIndex, Chroma, Gemini, FastAPI |
 | [PPE Compliance Detector](https://github.com/areslou/ppe-detector) | Detects missing helmets and safety gear from camera images | Python, YOLOv8, MobileNetV3 / ResNet50 / EfficientNet |
 | [ECHO](https://github.com/Crindo18/echo-bench) *(thesis, in progress)* | Offline, few-shot intent recognition for dysarthric speech on a Raspberry Pi 5 | Python, E-Branchformer, Prototypical Networks |
 | Model leakage audit | Found a feature leak behind a "99% accurate" model with SHAP, then rebuilt it honestly | Python, XGBoost, SHAP |
